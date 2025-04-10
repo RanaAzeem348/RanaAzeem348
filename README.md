@@ -16,7 +16,7 @@ Hi, I'm [Azeem Ashraf], a passionate **Frontend Developer** with a strong focus 
 ### 1. **Project 1: [weatherapp]**
    - **Description:** Briefly describe the project here.
    - **Tech Stack:** React, CSS, Node.js
-   - **GitHub Link:** [GitHub Link](https://github.com/Rana Azeem348/wetherapp)
+   - **GitHub Link:** [GitHub Link](https://github.com/RanaAzeem348/wetherapp)
 
 
 ---
