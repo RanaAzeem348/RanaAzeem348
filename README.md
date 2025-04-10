@@ -1,16 +1,24 @@
-## Hi there 👋
+# Frontend Developer - [Azeem Ashraf]
 
-<!--
-**RanaAzeem348/RanaAzeem348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Azeem Ashraf], a passionate **Frontend Developer** with a strong focus on building beautiful and user-friendly web applications. I specialize in **HTML, CSS, JavaScript**, and modern front-end frameworks like **React**, **Vue.js**, and **Angular**.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Vue.js, Angular, Bootstrap, jQuery
+- **Version Control:** Git, GitHub
+- **Build Tools:** Webpack, Babel, NPM, Yarn
+- **UI/UX Design:** Figma, Adobe XD, Sketch
+- **Others:** REST APIs, GraphQL, AJAX, Sass, Tailwind CSS
+
+## 🚀 My Projects
+
+### 1. **Project 1: [weatherapp]**
+   - **Description:** Briefly describe the project here.
+   - **Tech Stack:** React, CSS, Node.js
+   - **GitHub Link:** [GitHub Link](https://github.com/Rana Azeem348/wetherapp)
+
+
+---
+
+I'm constantly learning and growing as a developer. Thanks for visiting my profile! 👨‍💻
